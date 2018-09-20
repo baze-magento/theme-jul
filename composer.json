@@ -1,0 +1,14 @@
+{
+    "name": "bazedk/magento_theme_jul",
+    "description": "Base theme used by Baze.dk",
+    "require": {
+        "php": "~5.6.0|~7.0.0|~7.1.0"
+    },
+    "type": "magento2-theme",
+    "version": "1.0.0",
+    "autoload": {
+        "files": [
+            "registration.php"
+        ]
+    }
+}
