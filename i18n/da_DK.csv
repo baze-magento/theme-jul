@@ -28,7 +28,7 @@
 "We'll email you an order confirmation with details and tracking info.","Vi sender dig en email med din ordrebekræftelse."
 "Continue Shopping","Gå tilbage til forsiden"
 "You have no items in your shopping cart.","Du har ikke nogen gave i kurven."
-"Click <a href="%1">here</a> to continue shopping.","Klik <a href="%1">her</a> for at gå tilbage til forsiden."
+"Click <a href=\"%1\">here</a> to continue shopping.","Klik <a href=\"%1\">her</a> for at gå tilbage til forsiden."
 "You are signed out","Du er blevet logget ud"
 "You have signed out and will go to our homepage in 5 seconds.","Du har logget ud og bliver viderestillet til vores loginside i løbet af 5 sekunder."
 "Customer Login","Kundelogin"
