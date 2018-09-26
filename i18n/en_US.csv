@@ -6,3 +6,12 @@
 "Add to Cart","Choose this Present",module,Magento_Sales
 "Add to Cart","Choose this Present",module,Magento_Wishlist
 "Add To Cart","Choose this Present",module,Magento_Catalog
+"Manage Addresses",""
+"Thank you for your purchase!","Your choice of present is now confirmed!"
+"We'll email you an order confirmation with details and tracking info.","We'll email you an order confirmation with details."
+"Continue Shopping","Return to Home Page"
+"Click <a href=""%1"">here</a> to continue shopping.","Click <a href=""%1"">here</a> to return to the Home Page."
+"You have signed out and will go to our homepage in 5 seconds.","You have signed out and will be redirected to our login page in 5 seconds."
+"Default Billing Address","Billing Address"
+"Default Shipping Address","Shipping Address"
+"Action","Available Actions"
