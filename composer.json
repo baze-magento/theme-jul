@@ -6,7 +6,7 @@
         "bazedk/bazemage-theme-core": "^1.0.0"
     },
     "type": "magento2-theme",
-    "version": "1.0.7",
+    "version": "1.0.8",
     "autoload": {
         "files": [
             "registration.php"
